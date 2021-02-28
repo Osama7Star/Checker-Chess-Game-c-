@@ -4,7 +4,8 @@ Checker Game in c++
 We Save All The Moves And Game Board in Random Access File
 and We save players' steps in Text File
 
-![Game Board]![alt text](https://github.com/[osama7star]/[Checker-Chess-Game-c-]/blob/[master]/Screenshot (357).png?raw=true)
+
+![alt text](https://github.com/[osama7star]/[Checker-Chess-Game-c-]/blob/[master]/board.png?raw=true)
 
 
 
